@@ -25,7 +25,7 @@ echo "Hello World<br>";
 
 **Hasil :**
 
-![foto](<img width="558" height="240" alt="2" src="https://github.com/user-attachments/assets/820a387e-ee1a-4596-af80-348f173f4493" />) 
+![foto](https://github.com/ramzi121006/lab7_php_dasar/blob/b1c051316fd0df364af8922df86be790f1369bcf/ss%20praktikum7/2.png) 
 
 
 ### 🔹 Halaman 62— Variabel PHP
