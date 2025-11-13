@@ -85,7 +85,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 **Hasil :**
 
-![foto](https://github.com/ramzi121006/lab7_php_dasar/blob/2618468a0a344837d73ce963ad3e108d68b07f7c/ss%20praktikum7/4.png)
+![foto](https://github.com/ramzi121006/lab7_php_dasar/blob/5ae43c55916d75384e4399f97fd3a220a91b7f88/ss%20praktikum7/4.png)
 
 
 ### 🔹 Halaman 64 — Operator PHP
