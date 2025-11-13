@@ -153,7 +153,7 @@ Menampilkan angka 1–10 menggunakan struktur WHILE.
 
 **Hasil :**
 
-![foto](https://github.com/NadhiaShafira/Lab7Web/blob/4b21de9844612a860dc816d654d805c1822b7acd/Screenshots_Prak7_PHPDasar/09_while_loop.png) 
+![foto](https://github.com/ramzi121006/lab7_php_dasar/blob/a72e46fab573bfc8a265d860290602d7fa67d875/ss%20praktikum7/9.png) 
 
 
 ### 🔹 Halaman 69 — Perulangan DO WHILE
