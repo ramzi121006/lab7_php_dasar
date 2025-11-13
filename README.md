@@ -127,7 +127,7 @@ Menampilkan nama hari menggunakan struktur SWITCH–CASE.
 Rabu
 ```
 
-![foto](https://github.com/NadhiaShafira/Lab7Web/blob/850712d6ae937ae59efd6e645318f5ef2dc8b83f/Screenshots_Prak7_PHPDasar/07_switch_condition.png)
+![foto](https://github.com/ramzi121006/lab7_php_dasar/blob/1febb248280f9a3e0782235213f198c7bd4e9e4a/ss%20praktikum7/7.png)
 
 
 ### 🔹 Halaman 67 — Perulangan FOR
