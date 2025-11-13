@@ -163,7 +163,7 @@ Menampilkan angka 1–10 dengan perulangan DO–WHILE.
 
 **Hasil :**
 
-![foto](https://github.com/NadhiaShafira/Lab7Web/blob/ebaef49ae5c66b0531fc138409716ffc07cf6e4f/Screenshots_Prak7_PHPDasar/10_do_while_loop.png) 
+![foto](https://github.com/ramzi121006/lab7_php_dasar/blob/74942ce9b6f412e73d561dacb32eaf7130482557/ss%20praktikum7/10.png) 
 
 
 ### 🔹 Halaman 70 — Form Input dan Output
