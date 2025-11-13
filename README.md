@@ -43,7 +43,7 @@ echo "Nama : " . $nama;
 
 **Hasil :**
 
-![foto](https://github.com/ramzi121006/lab7_php_dasar/blob/099e34b64d96d61fbc34b14d985556844f61c042/ss%20praktikum7/3.png) 
+![foto](https://github.com/ramzi121006/lab7_php_dasar/blob/04dacb86250be06f94e0ccffc96d1fcaf3520c9e/ss%20praktikum7/2.png) 
 
 
 ### 🔹 Halaman 62 — Predefine Variable $_GET
