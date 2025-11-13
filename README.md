@@ -59,7 +59,7 @@ echo "Selamat Datang " . $nama;
 
 **Hasil :**
 
-![foto](https://github.com/NadhiaShafira/Lab7Web/blob/595971642183d4595ec452fccc9f93c603cb3d6d/Screenshots_Prak7_PHPDasar/03_get_result.png)
+![foto](https://github.com/ramzi121006/lab7_php_dasar/blob/e561b5fe08403582eca4ab89196d8f312ada6def/ss%20praktikum7/3.png)
 
 
 ### 🔹 Halaman 63 — Predefine Variable $_POST
