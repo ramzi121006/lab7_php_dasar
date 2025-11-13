@@ -173,7 +173,7 @@ Menampilkan form input (Nama, Tanggal Lahir, Pekerjaan) dan menghitung umur otom
 
 **Hasil Sebelum Di Isi :**
 
-![foto](https://github.com/NadhiaShafira/Lab7Web/blob/ec8e0d28e671aa918c02536222ec84ade5a38f9d/Screenshots_Prak7_PHPDasar/form_output_result%20(1).png) 
+![foto](https://github.com/ramzi121006/lab7_php_dasar/blob/2463cc9a46db2bad40afb382c218505dc97613c7/ss%20praktikum7/11.png) 
 
 **Hasil Sesudah Di Isi :**
 
