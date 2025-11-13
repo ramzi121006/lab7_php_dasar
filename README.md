@@ -113,7 +113,7 @@ Menampilkan nama hari berdasarkan tanggal saat ini menggunakan IF–ELSE.
 Rabu
 ```
 
-![foto](https://github.com/NadhiaShafira/Lab7Web/blob/2077f74973d3c47f76fd92940f5c5837a9cf8598/Screenshots_Prak7_PHPDasar/06_if_condition.png)
+![foto](https://github.com/ramzi121006/lab7_php_dasar/blob/b4dc937e6fafcfa117f8aeba1e1c853728747c8d/ss%20praktikum7/6.png)
 
 
 ### 🔹 Halaman 66 — Kondisi SWITCH
