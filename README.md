@@ -35,15 +35,15 @@ Menambahkan variabel NIM dan Nama, serta menampilkannya di browser.
 
 **Kode Singkat:**
 
-```$nim = "0411500400";
-$nama = "Nadhia Shafira";
+```$nim = "312410454";
+$nama = "";valengans";
 echo "NIM : " . $nim . "<br>";
 echo "Nama : " . $nama;
 ```
 
 **Hasil :**
 
-![foto](https://github.com/NadhiaShafira/Lab7Web/blob/a1598cd7e8769a68a43437a6a9bdb60b87094868/Screenshots_Prak7_PHPDasar/02_php_dasar_variable.png) 
+![foto](https://github.com/ramzi121006/lab7_php_dasar/blob/099e34b64d96d61fbc34b14d985556844f61c042/ss%20praktikum7/3.png) 
 
 
 ### 🔹 Halaman 62 — Predefine Variable $_GET
