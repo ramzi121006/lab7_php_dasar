@@ -143,7 +143,7 @@ Perulangan ke: 2
 Perulangan ke: 10
 ```
 
-![foto](https://github.com/NadhiaShafira/Lab7Web/blob/62f7aa37cef36837e61fa248f6f46952f39f8b37/Screenshots_Prak7_PHPDasar/08_for_loop.png) 
+![foto](https://github.com/ramzi121006/lab7_php_dasar/blob/864d3768e6ee24873e3898e51b40412e670bdbad/ss%20praktikum7/8.png) 
 
 
 ### 🔹 Halaman 68 — Perulangan WHILE
