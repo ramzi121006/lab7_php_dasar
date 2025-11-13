@@ -99,7 +99,7 @@ Menghitung gaji sebelum dan sesudah pajak.
 Gaji yang dibawa pulang = Rp. 900000
 ```
 
-![foto](https://github.com/NadhiaShafira/Lab7Web/blob/bc2c4b0afa522aad8883b1736fb1051c7b40788d/Screenshots_Prak7_PHPDasar/05_operator_result.png)
+![foto](https://github.com/ramzi121006/lab7_php_dasar/blob/90498be1213695c87f5a01e6dce43d037c1af79b/ss%20praktikum7/5.png)
 
 
 ### 🔹 Halaman 65 — Kondisi IF
